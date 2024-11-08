@@ -1,5 +1,8 @@
 .mapa {
     background-color: rgb(247, 17, 247);
 	color: rgb(255, 255, 255);
-    padding: 30px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: left;
 }
